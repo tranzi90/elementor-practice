@@ -26,7 +26,7 @@ const DB_NAME = 'WPdb';
 const DB_USER = 'root';
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+const DB_PASSWORD = '';
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
