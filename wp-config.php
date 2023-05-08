@@ -35,7 +35,7 @@ const DB_HOST = 'localhost';
 const DB_CHARSET = 'utf8mb4';
 
 /** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
+const DB_COLLATE = '';
 
 const FS_METHOD = 'direct';
 
