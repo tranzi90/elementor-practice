@@ -50,7 +50,7 @@ const FS_METHOD = 'direct';
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         ';V;m[+u}3Q)v6_e1iZd)vFVEX4FfNb0F1 w0/HSwLk!|[XlRGg9<|hG&,9@!^gpW' );
+const AUTH_KEY = ';V;m[+u}3Q)v6_e1iZd)vFVEX4FfNb0F1 w0/HSwLk!|[XlRGg9<|hG&,9@!^gpW';
 define( 'SECURE_AUTH_KEY',  '3;*$G~yF>c&ZeT#BFQa/@E1WCnY:mcw8Ua;UZr.;1Sd&;Il5q+G)-F1^NZ?FfY[^' );
 define( 'LOGGED_IN_KEY',    'XFe0u.!Ng!3axj(UP(!Y4&<#q}[[_;3{)yN_i+7`m=<CRRji}U~O7>Q]fv o)-@3' );
 define( 'NONCE_KEY',        '<Pb!CL)m7^1&|$1G>{uiZcbwm_1j ]$vaJ_tEJevJV{~,96%}u>wbhzjnUlaysj]' );
