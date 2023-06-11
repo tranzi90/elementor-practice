@@ -55,7 +55,7 @@ const SECURE_AUTH_KEY = '3;*$G~yF>c&ZeT#BFQa/@E1WCnY:mcw8Ua;UZr.;1Sd&;Il5q+G)-F1
 const LOGGED_IN_KEY = 'XFe0u.!Ng!3axj(UP(!Y4&<#q}[[_;3{)yN_i+7`m=<CRRji}U~O7>Q]fv o)-@3';
 const NONCE_KEY = '<Pb!CL)m7^1&|$1G>{uiZcbwm_1j ]$vaJ_tEJevJV{~,96%}u>wbhzjnUlaysj]';
 const AUTH_SALT = 'CpZ;(Y]`1;+Gim<#d7_GB^B-D@%8{(vt2MEGw-O$w=56{-C7v,3hBZT?Hx%%iya0';
-define( 'SECURE_AUTH_SALT', 'RTT:$|8I2C,M=uf~N}0=+@e!rm8]FWYEC)_rXnUOMuU$sy,F*.8AwfTA_+aA$)?u' );
+const SECURE_AUTH_SALT = 'RTT:$|8I2C,M=uf~N}0=+@e!rm8]FWYEC)_rXnUOMuU$sy,F*.8AwfTA_+aA$)?u';
 define( 'LOGGED_IN_SALT',   '9FwY0f$2Az<,J$IQQW`[8$ )x31Xc~]K;W5G*z:~#v*Qo?!K`r`k^p07UkD8e6c{' );
 define( 'NONCE_SALT',       'yI`j}|SjV(){ou!mx~)(pI 6F?hUVvr`s3l1yM$Qv!PV-Z`Z;qcr0jYz:`q_6DfR' );
 
